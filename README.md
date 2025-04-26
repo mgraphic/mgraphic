@@ -17,6 +17,8 @@ I’m a seasoned software designer with over 20 years of experience. I am passio
 
 ## Key Projects
 
+**[Cafe Online Ordering](https://github.com/mgraphic/SBC-Cafe-Mobile-Order)** | A work-in-progress application that allows visiters to order coffee and other cafe items at South Bay Church in Florida.
+
 **[Cipher Token](https://github.com/mgraphic/cipher-token)** [ [npm](https://www.npmjs.com/package/@mgraphic/cipher-token) ] | A published NPM package that simplifies encoding and decoding secrets keys to be stored in non-private locations
 
 **[Word Finder](https://github.com/mgraphic/Word-Finder)** [ [demo](http://word-finder.kmarshall.com) ] | A mono repo application that provides a word search lookup for your favorite word games that harnesses Docker Compose
