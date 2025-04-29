@@ -1,5 +1,11 @@
 Hello, I’m Keith Marshall and I’m a software engineer focused on building engaging applications that provides quality user experience and powerful tools for stakeholders.
 
+<div align="center">
+  <a href="https://github.com/mgraphic?tab=follower"><img src="https://img.shields.io/github/followers/mgraphic?style=flat-square&logo=github&color=236ad3&logoColor=white&labelColor=1a1b27" alt="GitHub followers" /></a>
+  <a href="https://github.com/mgraphic?tab=repositories"><img src="https://img.shields.io/github/stars/mgraphic?style=flat-square&logo=github&color=FF9500&logoColor=white&labelColor=1a1b27" alt="GitHub Stars" /></a>
+  <!-- <a href="https://github.com/mgraphic"><img src="https://komarev.com/ghpvc/?username=mgraphic&style=flat-square&color=00B0FF&labelColor=1a1b27" alt="Profile Views" /></a> -->
+</div>
+
 ## About Me
 
 I’m a seasoned software designer with over 20 years of experience. I am passionate in working with junior developers in mentoring and helping them exceed in their journeys. I also enjoy working on open-source code projects that can be shared with the coding community.
@@ -33,6 +39,6 @@ I’m a seasoned software designer with over 20 years of experience. I am passio
 
 ![Gmail](https://img.shields.io/badge/-clear?style=social&logo=gmail) Email | [keith@kmarshall.com](mailto:keith@kmarshall.com)
 
-![Gmail](https://img.shields.io/badge/-clear?style=social&logo=linkedin) LinkedIn | https://www.linkedin.com/in/marshallgraphic
+![GitHub](https://img.shields.io/badge/-clear?style=social&logo=github) GitHub | https://github.com/mgraphic
 
-![Gmail](https://img.shields.io/badge/-clear?style=social&logo=github) GitHub | https://github.com/mgraphic
+LinkedIn | https://www.linkedin.com/in/marshallgraphic
