@@ -37,8 +37,8 @@ I’m a seasoned software designer with over 20 years of experience. I am passio
 
 ## Connection
 
-![Gmail](https://img.shields.io/badge/-clear?style=social&logo=gmail) Email | [keith@kmarshall.com](mailto:keith@kmarshall.com)
+<div><a href="mailto:keith@kmarshall.com"><img src="https://skillicons.dev/icons?i=gmail" height="15" /> Email | keith@kmarshall.com</a></div>
 
-![GitHub](https://img.shields.io/badge/-clear?style=social&logo=github) GitHub | https://github.com/mgraphic
+<div><a href="https://github.com/mgraphic"><img src="https://skillicons.dev/icons?i=github" height="15" /> GitHub | https://github.com/mgraphic</a></div>
 
-LinkedIn | https://www.linkedin.com/in/marshallgraphic
+<div><a href="https://www.linkedin.com/in/marshallgraphic"><img src="https://skillicons.dev/icons?i=linkedin" height="15" /> LinkedIn | https://www.linkedin.com/in/marshallgraphic</a></div>
