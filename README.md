@@ -3,7 +3,7 @@ Hello, I’m Keith Marshall and I’m a software engineer focused on building en
 <div align="center">
   <a href="https://github.com/mgraphic?tab=follower"><img src="https://img.shields.io/github/followers/mgraphic?style=flat-square&logo=github&color=236ad3&logoColor=white&labelColor=1a1b27" alt="GitHub followers" /></a>
   <a href="https://github.com/mgraphic?tab=repositories"><img src="https://img.shields.io/github/stars/mgraphic?style=flat-square&logo=github&color=FF9500&logoColor=white&labelColor=1a1b27" alt="GitHub Stars" /></a>
-  <!-- <a href="https://github.com/mgraphic"><img src="https://komarev.com/ghpvc/?username=mgraphic&style=flat-square&color=00B0FF&labelColor=1a1b27" alt="Profile Views" /></a> -->
+  <a href="https://github.com/mgraphic"><img src="https://komarev.com/ghpvc/?username=mgraphic&style=flat-square&color=00B0FF&labelColor=1a1b27" alt="Profile Views" /></a>
 </div>
 
 ## About Me
