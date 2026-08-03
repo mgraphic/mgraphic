@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/mgraphic/mgraphic/shared/kmarshall-gh-banner.png" />
+</div>
+
 Hello, I’m Keith Marshall and I’m a software engineer focused on building engaging applications that provides quality user experience and powerful tools for stakeholders.
 
 <div align="center">
